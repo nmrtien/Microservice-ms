@@ -1,0 +1,5 @@
+package com.tiennv.product.repository;
+
+public interface ProductRepository {
+
+}

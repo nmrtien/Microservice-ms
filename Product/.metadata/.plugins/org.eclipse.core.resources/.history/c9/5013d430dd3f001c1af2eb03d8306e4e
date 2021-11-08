@@ -1,0 +1,26 @@
+package com.tiennv.product.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.tiennv.product.service.ProductService;
+
+@RestController  
+@RequestMapping("/")
+public class ProductController {
+	
+	@Autowired
+	ProductService service;
+	
+	@RequestMapping("/")
+	public String home() {
+		
+	}
+	
+	@RequestMapping("/products")
+	public JsonObject getProducts() {
+		Json
+	}
+
+}

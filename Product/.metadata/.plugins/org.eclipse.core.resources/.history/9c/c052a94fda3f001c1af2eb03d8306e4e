@@ -1,0 +1,6 @@
+package com.tiennv.product.repository;
+
+@Repository
+public class ProductRepository {
+
+}

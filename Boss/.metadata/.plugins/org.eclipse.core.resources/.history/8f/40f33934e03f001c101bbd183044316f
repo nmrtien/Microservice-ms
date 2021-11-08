@@ -1,0 +1,28 @@
+#Eureka server
+spring.application.name=boss-ms 
+
+# default port for eureka server
+server.port=8080
+
+# eureka by default will register itself as a client. So, we need to set it to false.
+
+# What's a client server? See other microservices (image, gallery, auth, etc).
+
+eureka.client.register-with-eureka=false
+
+eureka.client.fetch-registry=false
+
+#boss-limit.minimum=1
+#boss-limit.maximum=99
+#
+#spring.config.import=optional:configserver:
+#spring.cloud.config.uri=http://localhost:8080
+#spring.jpa.show-sql=true
+#spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
+#spring.jpa.hibernate.ddl-auto = create-drop 
+#spring.datasource.driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
+#
+##E_Project
+#spring.datasource.url=jdbc:sqlserver://localhost;databaseName=E_Project
+#spring.datasource.username=sa
+#spring.datasource.password=hollowt
