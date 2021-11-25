@@ -1,7 +1,0 @@
-package com.tiennv.product.controller;
-
-@RestController  
-@RequestMapping("/")
-public class ProductController {
-
-}

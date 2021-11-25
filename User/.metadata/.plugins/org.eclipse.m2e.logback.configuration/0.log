@@ -1,0 +1,117 @@
+2021-11-07 20:37:25,086 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-07 20:38:14,902 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-07 21:19:56,256 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.user:userMS:0.0.1-SNAPSHOT @ C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\pom.xml.
+2021-11-07 21:20:02,215 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:20:02,230 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:20:02,254 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:20:02,325 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:20:05,924 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:20:07,022 [Worker-36: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.user:userMS:0.0.1-SNAPSHOT @ C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\pom.xml.
+2021-11-07 21:20:11,006 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:20:11,007 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:20:11,008 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:20:16,035 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:20:16,037 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:20:16,045 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:20:16,051 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:20:16,058 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:20:16,668 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:20:16,668 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:20:16,669 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:20:20,401 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:20:20,402 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:20:20,403 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:20:20,404 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:20:20,414 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:20:20,517 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:20:20,518 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:20:20,519 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:22:54,026 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:22:54,027 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:22:54,029 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:22:54,175 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:22:54,185 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:22:54,253 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:22:54,253 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:22:54,253 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:22:59,315 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:22:59,317 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:22:59,319 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:22:59,392 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:22:59,407 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:22:59,521 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:22:59,522 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:22:59,522 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:26:44,467 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:26:44,469 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:26:44,470 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:26:44,646 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:26:44,655 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:26:44,778 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:26:44,779 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:26:44,779 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:27:48,953 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:27:48,953 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:27:48,954 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:27:48,974 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:27:48,981 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:27:49,078 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:27:49,078 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:27:49,078 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:28:23,505 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:28:23,506 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:28:23,506 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:28:23,539 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:28:23,554 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:28:23,711 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:28:23,711 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:28:23,712 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:28:26,949 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:28:26,950 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:28:26,950 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:28:26,975 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:28:26,987 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:28:27,084 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:28:27,084 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:28:27,084 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:28:32,446 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:28:32,447 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:28:32,447 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:28:32,468 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:28:32,474 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:28:32,542 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:28:32,542 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:28:32,542 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:33:34,328 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:33:34,333 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:33:34,336 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:33:34,480 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:33:34,493 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:33:35,158 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:33:35,159 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:33:35,159 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:34:36,078 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.user:userMS:0.0.1-SNAPSHOT @ C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\pom.xml.
+2021-11-07 21:34:41,195 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:34:41,200 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:34:41,212 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:34:41,212 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:34:43,435 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:34:44,860 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:34:44,862 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:34:44,863 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:34:48,351 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:34:48,352 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:34:48,354 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:34:48,385 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:34:48,394 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:34:48,614 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:34:48,615 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:34:48,615 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources
+2021-11-07 21:34:55,948 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:34:55,948 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:34:55,949 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-07 21:34:55,988 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-07 21:34:55,996 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Starting Hibernate enhancement for classes on C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\target\classes
+2021-11-07 21:34:56,129 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-07 21:34:56,129 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-11-07 21:34:56,130 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tiennv\eclipse-workspace\Microservice-MS\User\UserMS\src\test\resources

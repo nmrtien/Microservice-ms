@@ -1,6 +1,0 @@
-package com.tiennv.product.repository;
-
-@Repository
-public interface ProductRepository {
-
-}

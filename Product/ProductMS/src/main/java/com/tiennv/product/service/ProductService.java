@@ -1,6 +1,5 @@
 package com.tiennv.product.service;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,9 +15,7 @@ public class ProductService {
 	private ProductRepository repository;
 
 	public List<Product> getProducts() {
-		List<Product> products = new ArrayList<Product>();
-		products = repository.findAll();
-		return products;
+		return repository.findAll();
 	}
 
 }

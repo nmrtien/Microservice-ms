@@ -1,0 +1,5 @@
+package com.tiennv.product.controller;
+
+public class ErrorController {
+
+}

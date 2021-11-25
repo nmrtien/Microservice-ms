@@ -1,0 +1,21 @@
+package com.tiennv.product.controller;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController  
+@RequestMapping("/error")
+public class ErrorController {
+	
+	@RequestMapping("/error")
+	public Map<String, Object> home() {
+		Map<String, Object> response = new HashMap<>();
+		response.put("status", 500);
+		response.put("message", "INTERNAL SERVER ERROR !");
+		return response;
+	}
+
+}
