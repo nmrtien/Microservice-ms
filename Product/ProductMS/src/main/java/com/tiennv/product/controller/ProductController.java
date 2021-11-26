@@ -14,7 +14,7 @@ import com.tiennv.product.service.ProductService;
 import com.tiennv.product.model.Product;
 
 @RestController  
-@RequestMapping("/")
+@RequestMapping("/product")
 public class ProductController {
 	
 	private static Logger logger = Logger.getLogger(ProductController.class.getName());
@@ -25,13 +25,13 @@ public class ProductController {
 	@Autowired
 	private ProductService service;
 	
-	@RequestMapping("/")
+	@RequestMapping("/home")
 	public String home() {
 		
 		return "product";
 	}
 	
-	@RequestMapping("/products")
+	@RequestMapping("/list")
 	public List<Product> getProducts() {
 //		Map<String, Object> response = new HashMap<>();
 //		try {

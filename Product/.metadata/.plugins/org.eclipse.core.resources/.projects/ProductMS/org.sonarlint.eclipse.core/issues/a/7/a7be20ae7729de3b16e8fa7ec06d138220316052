@@ -1,11 +1,14 @@
 
+n	java:S1254"<This block of commented-out lines of code should be removed.(¨ö±8“ÿ§«Õ/H„
+RMAJORZ
+CODE_SMELL
 b
-java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Ö®¬«Õ/HöRMINORZ
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Ö®¬«Õ/H’
+RMINORZ
 CODE_SMELL
-n	java:S1254"<This block of commented-out lines of code should be removed.(¨ö±8“ÿ§«Õ/H’RMAJORZ
-CODE_SMELL
-s	java:S125$"<This block of commented-out lines of code should be removed.(¯í…Åùÿÿÿÿ8û¤©«Õ/H±RMAJORZ
+s	java:S125$"<This block of commented-out lines of code should be removed.(¯í…Åùÿÿÿÿ8û¤©«Õ/H÷	RMAJORZ
 CODE_SMELL
 f
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ö®¬«Õ/HôRMINORZ
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ö®¬«Õ/H‚
+RMINORZ
 CODE_SMELL
