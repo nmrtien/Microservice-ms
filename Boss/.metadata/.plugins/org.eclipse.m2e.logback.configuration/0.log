@@ -5039,3 +5039,4 @@ Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/ms
 2021-11-27 16:51:25,191 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-11-27 16:51:25,191 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Developer\Workspace\Demo\Microservice\Microservice-ms\Boss\mseureka\src\test\resources
 2021-11-27 17:31:41,148 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-27 17:45:03,461 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
