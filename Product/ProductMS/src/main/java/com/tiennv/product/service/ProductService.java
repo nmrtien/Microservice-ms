@@ -11,11 +11,11 @@ import com.tiennv.product.repository.ProductRepository;
 @Service
 public class ProductService {
 	
-	@Autowired
-	private ProductRepository repository;
+//	@Autowired
+//	private ProductRepository repository;
 
-	public List<Product> getProducts() {
-		return repository.findAll();
-	}
+//	public List<Product> getProducts() {
+//		return repository.findAll();
+//	}
 
 }

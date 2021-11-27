@@ -22,8 +22,8 @@ public class ProductController {
 	@Autowired  
 	private Environment env;
 	
-	@Autowired
-	private ProductService service;
+//	@Autowired
+//	private ProductService service;
 	
 	@RequestMapping("/home")
 	public String home() {
@@ -32,7 +32,7 @@ public class ProductController {
 	}
 	
 	@RequestMapping("/list")
-	public List<Product> getProducts() {
+	public String getProducts() {
 //		Map<String, Object> response = new HashMap<>();
 //		try {
 //			response.put("status", 200);
@@ -44,8 +44,17 @@ public class ProductController {
 //			response.put("message", "Get products error !");
 //			response.put("products", "");
 //		}
-		logger.info("GET ALL PRODUCTS ");
-		return service.getProducts();
+		logger.info("GET ALL PRODUCTS !");
+		return "GET ALL PRODUCTS !";
+	}
+	
+	@RequestMapping("/error")
+	public Map<String, Object> error() {
+		Map<String, Object> response = new HashMap<>();
+		response.put("status", 500);
+		response.put("message", "INTERNAL SERVER ERROR !");
+		logger.info("error !");
+		return response;
 	}
 	
 //	@RequestMapping("/product")
